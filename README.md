@@ -1,0 +1,2 @@
+# SokoloffGrant
+Here is where the students who partake in the Sokoloff Grant's class's code will be stored. Files for each student will be created and the code that they create will be archived here.
