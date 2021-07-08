@@ -28,4 +28,8 @@ This is what the Sprite looks like:
 1. The Sprite has to move on the screen (it can jump, run, spin, or fly!!)
 2. Use atleast __one__ "if" statement in your code
 
+***Please Make sure that you share the project when you are done with it*** 
+Checkout the image below for help on sharing your project
+![Share Project](/formatting/shareTheProject.png)
+
 See you Monday!
