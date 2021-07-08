@@ -33,3 +33,7 @@ Checkout the image below for help on sharing your project
 ![Share Project](/formatting/shareTheProject2.png)
 
 See you Monday!
+
+Image from Today:
+
+![Happy photo](/formatting/screenShotDay1.png)
