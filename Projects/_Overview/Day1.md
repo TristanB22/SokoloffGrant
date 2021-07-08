@@ -30,6 +30,6 @@ This is what the Sprite looks like:
 
 ***Please Make sure that you share the project when you are done with it*** 
 Checkout the image below for help on sharing your project
-![Share Project](/formatting/shareTheProject.png)
+![Share Project](/formatting/shareTheProject2.png)
 
 See you Monday!
