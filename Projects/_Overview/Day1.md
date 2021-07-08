@@ -23,7 +23,7 @@ This is what the Sprite looks like:
 
 ![Sprite](/formatting/SpriteFinal.jpeg)
 
-### Cool Project for Monday!!
+### Cool Project // Challenge Problem for Monday!!
 ##### Make an ***AWESOME*** project in Scratch and get to know how Scratch works! There are only 2 rules!
 1. The Sprite has to move on the screen (it can jump, run, spin, or fly!!)
 2. Use atleast __one__ "if" statement in your code
@@ -36,4 +36,4 @@ See you Monday!
 
 Image from Today:
 
-![Happy photo](/formatting/screenShotDay1.png)
+![Happy photo](/formatting/screenShotDay1)
