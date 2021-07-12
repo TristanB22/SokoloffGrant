@@ -16,7 +16,7 @@ Link to the [presentation](https://docs.google.com/presentation/d/1cjUm7ueHbfwnG
 Link to [Visual Studio Code instructions for Chrome OS](https://www.windowscentral.com/how-install-microsoft-visual-studio-code-chromebook)
 
 
-### Notes from Today:
+### Notes from Today: ___[HERE](https://www.w3schools.com/python/) is a great resource for learning Python___
 
 #### Data types:
 [link about data types in computer science](https://www.bbc.co.uk/bitesize/guides/zwmbgk7/revision/3)
