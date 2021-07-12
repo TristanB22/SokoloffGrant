@@ -25,7 +25,7 @@ Link to [Visual Studio Code instructions for Chrome OS](https://www.windowscentr
 [Information](https://www.w3schools.com/python/python_for_loops.asp) about for loops
 
 #### If Statement
-[Information](https://www.w3schools.com/python/python_conditions.asp} about if statements
+[Information](https://www.w3schools.com/python/python_conditions.asp) about if statements
 
 #### Classes
 [Information](https://www.w3schools.com/python/python_classes.asp) about classes in python
