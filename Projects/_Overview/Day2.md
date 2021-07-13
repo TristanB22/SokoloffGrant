@@ -4,6 +4,8 @@
 [Link to class](https://sps.zoom.us/j/94771799518)
 Welcome to the class!
 
+[Link to recording](https://drive.google.com/file/d/1FxXXHWtL6O8XrxNs0TTn8hT0bSFh_rFE/view?usp=sharing)
+
 Plan for Today:
 - Run over the basics of computer internals
 - Understand why the computer works the way that it does
