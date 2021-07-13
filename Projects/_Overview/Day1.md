@@ -4,6 +4,8 @@
 [Link to class](https://sps.zoom.us/j/94771799518)
 Welcome to the class!
 
+[Link to recording](https://drive.google.com/drive/folders/1R9DuTlHccO8zzzP1J87DmIfZLloAVqKE?usp=sharing)
+
 Plan for today:
 - Run over the rules
 - Get started with [Scratch](https://scratch.mit.edu/)
