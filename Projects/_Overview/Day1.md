@@ -10,7 +10,7 @@ Plan for today:
 - Get first program running! (If there is time)
 
 #### Checkout [this program](https://scratch.mit.edu/projects/551621706) for a good starting point for your project!
-![Example Project](/formatting/ScratchProject1.png)
+![Example Project](/formatting/Day1Materials/ScratchProject1.png)
 
 ### Information about Scratch:
 [Description](https://en.wikipedia.org/wiki/Scratch_(programming_language)): Scratch is a high-level block-based visual programming language 
@@ -21,7 +21,7 @@ The objective is to use code to manipulate the sprite and your project!
 
 This is what the Sprite looks like:
 
-![Sprite](/formatting/SpriteFinal.jpeg)
+![Sprite](/formatting/Day1Materials/SpriteFinal.jpeg)
 
 ### Cool Project // Challenge Problem for Monday!!
 ##### Make an ***AWESOME*** project in Scratch and get to know how Scratch works! There are only 2 rules!
@@ -30,10 +30,10 @@ This is what the Sprite looks like:
 
 ***Please Make sure that you share the project when you are done with it*** 
 Checkout the image below for help on sharing your project
-![Share Project](/formatting/shareTheProject2.png)
+![Share Project](/formatting/Day1Materials/shareTheProject2.png)
 
 See you Monday!
 
 Image from Today:
 
-![Happy photo](/formatting/screenShotDay1)
+![Happy photo](/formatting/Day1Materials/screenShotDay1)
