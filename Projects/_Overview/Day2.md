@@ -37,11 +37,11 @@ Link to [Visual Studio Code instructions for Chrome OS](https://www.windowscentr
 
 To make a project:
 
-![image](formatting/Day2Materials/instructions1)
+![image](/formatting/Day2Materials/instructions1)
 
-![image](formatting/Day2Materials/instructions2)
+![image2](/formatting/Day2Materials/instructions2)
 
-![image](formatting/Day2Materials/instructions3)
+![image3](/formatting/Day2Materials/instructions3)
 
 ___Remember to email me your link___
 
