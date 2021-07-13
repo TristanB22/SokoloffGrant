@@ -31,9 +31,24 @@ Link to [Visual Studio Code instructions for Chrome OS](https://www.windowscentr
 [Information](https://www.w3schools.com/python/python_classes.asp) about classes in python
 
 
+## How to make IDEONE Project:
+
+** remember that ide is an integrated development environment -- basically it is somewhere where you code
+
+To make a project:
+
+![image](formatting/Day2Materials/instructions1)
+
+![image](formatting/Day2Materials/instructions2)
+
+![image](formatting/Day2Materials/instructions3)
+
+___Remember to email me your link___
+
 ### Cool Project (challenge problem) for Thursday. PLEASE COMPLETE!
 
 ##### Create a loop in python which can count to 100! There are a bunch of differnet ways to do this. Only one requirement:
 - The program must print every integer from 0 to 100 (including 0 and 100)! 
 
 ## PLEASE EMAIL ME THE LINK TO YOUR PROGRAM WHEN YOU ARE DONE!
+# MORE IMPORTANT: EMAIL ME WITH QUESTIONS @ tristan.brigham@sps.edu
