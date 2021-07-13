@@ -9,6 +9,10 @@ Plan for Today:
 - Understand why the computer works the way that it does
 - Get to programming in Python!
 
+
+![happy coders!](/formatting/Day2Materials/class1.png)
+
+
 ___Code Example from today found [here](https://ideone.com/CLD7lC)___
 
 Link to the [presentation](https://docs.google.com/presentation/d/1cjUm7ueHbfwnGbKYGCGVsT9LFXuwEN5WT4k5RUMG2iY/edit?usp=sharing)
