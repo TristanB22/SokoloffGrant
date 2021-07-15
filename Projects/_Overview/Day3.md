@@ -1,5 +1,8 @@
 # DAY 3
 
+Welcome! Class 3 for up to 90 minutes
+#### [class link](https://sps.zoom.us/j/94771799518)
+
 ### More Programming today in Python
 
 __[HERE](https://ideone.com/CLD7lC)__ is a good set of things to know for Python
@@ -31,3 +34,11 @@ for [variable] in [set to be iterated]:
 - Everyday apps and their languages if we have time!
 
 From feedback, I heard that I was talking too quickly last time, so we will spend some time going over last class's material today. 
+
+
+## FOR NEXT TIME:
+
+##### Use a for loop to print out the numbers from 1 to 100
+- you must use a for loop
+- make sure to email me if you have any questions
+- We will do a similar project in class today
