@@ -26,7 +26,7 @@ entering into tech because of factors they cannot control.
 Let's work together to create the future which ___they deserve___.
 
 Best,
-Tristan Brigham
+Tristan B
 
 
 [Here](https://sps.zoom.us/j/94771799518) will always be the link to the class
