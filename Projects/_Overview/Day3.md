@@ -3,6 +3,8 @@
 Welcome! Class 3 for up to 90 minutes
 #### [class link](https://sps.zoom.us/j/94771799518)
 
+![Happy Campers](/formatting/Day3Materials)
+
 ### More Programming today in Python
 
 __[HERE](https://ideone.com/CLD7lC)__ is a good set of things to know for Python
