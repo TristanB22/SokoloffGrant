@@ -5,6 +5,8 @@ https://scratch.mit.edu/projects/552689888
 
 ### Link to python code:
 https://ideone.com/TzO47t 
+
+### Link to Class 2's Python Code:
 https://ideone.com/N1Kcvt
 
 ### Link to Class 3's Python Code:
