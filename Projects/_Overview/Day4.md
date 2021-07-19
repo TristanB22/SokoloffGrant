@@ -2,6 +2,8 @@
 ### Welcome to the Class -- up to 90 minutes 
 [class link here](https://sps.zoom.us/j/94771799518) 
 
+You all are becoming experts at Python now. If you want a challenge, then check out [this](https://www.youtube.com/watch?v=1HHRWg--Ce4&ab_channel=TechWithTim) video for future inspiration!
+
 ## Today:: __Functions__
 
 __[here](https://www.w3schools.com/python/python_functions.asp)__ is a very good resource for functions
