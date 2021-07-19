@@ -7,6 +7,8 @@ Welcome! Class 3 for up to 90 minutes
 
 ![Happy Campers](/formatting/Day3Materials)
 
+__[Solution](https://ideone.com/sl3AaJ)__ to last night's homework
+
 ### More Programming today in Python
 
 __[HERE](https://ideone.com/CLD7lC)__ is a good set of things to know for Python
