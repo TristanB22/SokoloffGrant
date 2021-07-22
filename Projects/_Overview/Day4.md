@@ -5,6 +5,7 @@
 [RECORDING](https://drive.google.com/drive/folders/1ZuTGsg20fhepmodg1eQF7zdWQyjyB_sp) for those of you who missed the class
 
 ![Happy Coders!](/formatting/Day4Materials/Class4.png)
+** Sorry I didn't get you all in the photo -- I missed some people who showed up late to the class
 
 You all are becoming experts at Python now. If you want a challenge, then check out [this](https://www.youtube.com/watch?v=1HHRWg--Ce4&ab_channel=TechWithTim) video for future inspiration!
 
