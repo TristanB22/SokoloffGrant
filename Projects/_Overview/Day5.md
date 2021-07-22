@@ -2,7 +2,7 @@
 ### Day 5 for up to 90 minutes
 ### Focus today: More funtions review and Classes if we get to it
 
-[Here](https://sps.zoom.us/j/94771799518) is the class link if you want it
+[Here](https://sps.zoom.us/j/94771799518) is the class link 
 
 [Here](https://docs.python.org/3/tutorial/classes.html) and [here](https://www.w3schools.com/python/python_classes.asp) are good resources for Python class information
 
