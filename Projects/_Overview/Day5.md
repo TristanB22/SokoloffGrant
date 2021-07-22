@@ -28,7 +28,23 @@ Array:   [10, 20, 30, 10, 0, 50, 10853]
 
 So the output would be 10853!
 
+##### If I wanted to print out an entire array, remember that I can just to a for loop!
+
+__Method 1:__
+```
+for i in range(len(myArray)): #remember that range gives you an array from 0 to that number and len gives you the length of the array
+  #do something with myArray[i]
+```
+
+__Method 2:__
+```
+for thing in myArray:
+  #do something with that thing
+```
+
+
 Image of an array:
+
 ![Array](/formatting/Day5Materials/arrays.jpeg)
 
 ## Classes:
@@ -48,4 +64,16 @@ For example, an apple is part of the fruit class. Then you can say:
 ___"An APPLE is a FRUIT"___
 
 Here is another example of a class:
+
 ![class image](/formatting/Day5Materials/image.jpeg)
+
+
+
+### Challenge Problem/Homework!!
+
+For next class, please try to make another function. Here is what that function needs to do:
+
+- The function must take an array as a parameter
+- the function must then iterate through every element in the array and print it out
+
+### ___AS ALWAYS, EMAIL ME WITH QUESTIONS!___
