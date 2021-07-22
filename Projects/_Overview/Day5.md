@@ -4,6 +4,8 @@
 
 [Here](https://sps.zoom.us/j/94771799518) is the class link 
 
+[Here](https://drive.google.com/drive/folders/1MSr2rA_G9VDhh8YYRVtZF2UgHSD_ApbE?usp=sharing) is the link to the class recording for today
+
 [Here](https://docs.python.org/3/tutorial/classes.html) and [here](https://www.w3schools.com/python/python_classes.asp) are good resources for Python class information
 
 # Arrays:
