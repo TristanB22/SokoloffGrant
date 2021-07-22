@@ -6,7 +6,7 @@
 
 [Here](https://docs.python.org/3/tutorial/classes.html) and [here](https://www.w3schools.com/python/python_classes.asp) are good resources for Python class information
 
-## Arrays:
+# Arrays:
 __Arrays are data structurees which can store lists of data__
 
 ### __WHY WOULD YOU WANT AN ARRAY?__
@@ -22,7 +22,7 @@ Here is the array that I have: myArray = [10, 20, 30, 10, 0, 50, 10853]
 If I want to get the number 20, I have to do this: myArray[1]
 
 
-##### So, if I wanted to get the object at index 6 (myArray[6]):
+### So, if I wanted to get the object at index 6 (myArray[6]):
 
 Remember:
 Indices:  0   1   2   3   4   5     6     
@@ -30,7 +30,7 @@ Array:   [10, 20, 30, 10, 0, 50, 10853]
 
 So the output would be 10853!
 
-##### If I wanted to print out an entire array, remember that I can just to a for loop!
+### If I wanted to print out an entire array, remember that I can just to a for loop!
 
 __Method 1:__
 ```
@@ -49,7 +49,7 @@ Image of an array:
 
 ![Array](/formatting/Day5Materials/arrays.jpeg)
 
-## Classes:
+# Classes:
 __Classes are the structures which allow for objects in programming__
 
 Some quick facts about classes:
