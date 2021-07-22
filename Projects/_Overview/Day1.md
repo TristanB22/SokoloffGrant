@@ -6,6 +6,8 @@ Welcome to the class!
 
 [Link to recording](https://drive.google.com/drive/folders/1R9DuTlHccO8zzzP1J87DmIfZLloAVqKE?usp=sharing)
 
+[Some Code to check out](https://ideone.com/UygFbg)
+
 Plan for today:
 - Run over the rules
 - Get started with [Scratch](https://scratch.mit.edu/)
