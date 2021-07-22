@@ -12,7 +12,7 @@ https://ideone.com/2dAUPZ
 ### Link to Class 3's Python
 https://ideone.com/bSUICU
 
-### Link to Class 3's Python:
+### Link to Class 3's Homework:
 https://ideone.com/lya009
 
 ### Link to Class 4's Homework: 
