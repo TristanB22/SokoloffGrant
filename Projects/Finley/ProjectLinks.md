@@ -11,3 +11,7 @@ https://ideone.com/N1Kcvt
 
 ### Link to Class 3's Python Code:
 https://ideone.com/GyFl6k
+
+### Link to Class 4's Code:
+https://ideone.com/ttwYRO
+https://ideone.com/RDGayR
