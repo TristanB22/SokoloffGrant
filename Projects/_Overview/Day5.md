@@ -30,7 +30,7 @@ Array:   [10, 20, 30, 10, 0, 50, 10853]
 
 So the output would be 10853!
 
-### If I wanted to print out an entire array, remember that I can just to a for loop!
+### If I wanted to do something to an entire array, remember that I can just to a for loop!
 
 __Method 1:__
 ```
