@@ -6,6 +6,8 @@
 
 You all are becoming experts at Python now. If you want a challenge, then check out [this](https://www.youtube.com/watch?v=1HHRWg--Ce4&ab_channel=TechWithTim) video for future inspiration!
 
+[HERE](https://ideone.com/wkZZ8D) is the code that we developed today
+
 ## Today:: __Functions__
 
 __[here](https://www.w3schools.com/python/python_functions.asp)__ is a very good resource for functions
