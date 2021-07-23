@@ -15,3 +15,7 @@ https://ideone.com/D9NYwS
 
 ### Link to Class 4's Python:
 https://ideone.com/J4RU8Z
+
+### Link to Class 5's Python:
+https://ideone.com/NYeQcI
+https://ideone.com/CapN7e
