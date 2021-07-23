@@ -15,3 +15,6 @@ https://ideone.com/UEzrSm
 
 ### Link to Class 4's Homework:
 https://ideone.com/TMa92O
+
+### Link to Class 5's Work:
+https://ideone.com/XDROmp
