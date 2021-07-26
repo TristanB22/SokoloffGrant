@@ -5,7 +5,7 @@ Welcome! Class 3 for up to 90 minutes
 
 [Here is the code from today](https://ideone.com/COPa7b)
 
-![Happy Campers](/formatting/Day3Materials)
+![Happy Campers](/formatting/Day3Photo.pdf)
 
 __[Solution](https://ideone.com/sl3AaJ)__ to last night's homework
 

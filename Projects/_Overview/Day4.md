@@ -2,8 +2,6 @@
 ### Welcome to the Class -- up to 90 minutes 
 [class link here](https://sps.zoom.us/j/94771799518)
 
-[RECORDING](https://drive.google.com/drive/folders/1ZuTGsg20fhepmodg1eQF7zdWQyjyB_sp) for those of you who missed the class
-
 ![Happy Coders!](/formatting/Day4Materials/Class4.png)
 ** Sorry I didn't get you all in the photo -- I missed some people who showed up late to the class
 
