@@ -55,4 +55,4 @@ ___Remember to email me your link___
 - The program must print every integer from 0 to 100 (including 0 and 100)! 
 
 ## PLEASE EMAIL ME THE LINK TO YOUR PROGRAM WHEN YOU ARE DONE!
-# MORE IMPORTANT: EMAIL ME WITH QUESTIONS @ tristan.brigham@sps.edu
+# MORE IMPORTANT: EMAIL ME WITH QUESTIONS 
