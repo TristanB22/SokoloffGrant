@@ -40,4 +40,4 @@ See you Monday!
 
 Image from Today:
 
-![Happy photo](/formatting/Day1Materials/screenShotDay1)
+![Happy photo](/formatting/Day1Materials/screenShotDay1.png)
