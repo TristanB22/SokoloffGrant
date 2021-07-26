@@ -6,7 +6,7 @@
 
 [Here](https://drive.google.com/drive/folders/1MSr2rA_G9VDhh8YYRVtZF2UgHSD_ApbE?usp=sharing) is the link to the class recording for today
 
-![Happy Coders](/formatting/Day5Materials/image2.jpeg)
+![Happy Coders](/formatting/Day5Materials/image2.jpg)
 
 [Here](https://docs.python.org/3/tutorial/classes.html) and [here](https://www.w3schools.com/python/python_classes.asp) are good resources for Python class information
 
