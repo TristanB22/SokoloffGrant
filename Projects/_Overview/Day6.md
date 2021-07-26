@@ -2,6 +2,8 @@
 ### Welcome to Class
 #### 90 minutes 
 
+[here](https://sps.zoom.us/j/94771799518) is the class link
+
 #### Topic for today: Games and Class Review!
 
 Important bits of Information: 
