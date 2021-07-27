@@ -6,6 +6,8 @@
 
 ![happy coders](/formatting/Day6Materials/classImage.png)
 
+(sorry I didn't get everyone in the screenshot -- forgot to take another when more people showed up)
+
 #### Topic for today: Games and Class Review!
 
 Important bits of Information: 
