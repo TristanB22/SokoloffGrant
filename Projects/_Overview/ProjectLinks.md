@@ -8,3 +8,6 @@ https://ideone.com/4705YE
 
 ### Another example game:
 https://ideone.com/TmpsR9
+
+### Game 6 Code:
+https://ideone.com/gZFCCr
