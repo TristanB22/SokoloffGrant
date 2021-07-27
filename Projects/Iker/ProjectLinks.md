@@ -10,3 +10,6 @@ https://ideone.com/UygFbg
 https://ideone.com/9G2d4W
 
 https://ideone.com/YdZD69
+
+### Class 6's Code:
+https://ideone.com/lQHphx
