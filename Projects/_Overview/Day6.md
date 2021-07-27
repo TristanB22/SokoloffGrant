@@ -4,6 +4,8 @@
 
 [here](https://sps.zoom.us/j/94771799518) is the class link
 
+![happy coders](/formatting/Day6Materials/classImage.png)
+
 #### Topic for today: Games and Class Review!
 
 Important bits of Information: 
