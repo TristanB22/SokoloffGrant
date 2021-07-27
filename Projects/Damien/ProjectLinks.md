@@ -19,3 +19,6 @@ https://ideone.com/J4RU8Z
 ### Link to Class 5's Python:
 https://ideone.com/NYeQcI
 https://ideone.com/CapN7e
+
+### Class 6's Work:
+https://ideone.com/qtnGNM
