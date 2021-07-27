@@ -30,3 +30,10 @@ https://ideone.com/1RnLYU
 https://ideone.com/S4Flvb
 
 https://ideone.com/1RnLYU
+
+### Class 6's Work:
+https://ideone.com/Giyy35
+https://ideone.com/Eqmbdo
+
+### Class 6's Homework:
+https://ideone.com/NtosDP
