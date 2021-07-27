@@ -21,3 +21,8 @@ https://ideone.com/91EhvX
 https://ideone.com/nNLr8T
 
 https://ideone.com/Gy7NPb
+
+### Link to Class 6's Work:
+https://ideone.com/eRd5eW
+https://ideone.com/BkEDce
+
