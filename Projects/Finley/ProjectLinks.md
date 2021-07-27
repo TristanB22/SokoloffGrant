@@ -18,3 +18,8 @@ https://ideone.com/RDGayR
 
 ### Class 5's Work:
 https://ideone.com/SnuTKG
+
+### Class 6's Work:
+https://ideone.com/aT6KKA
+
+https://ideone.com/OndIeg
