@@ -31,15 +31,19 @@ https://ideone.com/S4Flvb
 
 https://ideone.com/1RnLYU
 
+### Link to Class 5's Homework:
+https://ideone.com/NtosDP
+
 ### Class 6's Work:
 https://ideone.com/Giyy35
 
 https://ideone.com/Eqmbdo
 
 ### Class 6's Homework:
-https://ideone.com/NtosDP
+https://ideone.com/1RadzX
 
 ### Link to Class 7's Work:
 https://ideone.com/8YMX7P
 
 https://ideone.com/T1BbtB
+
