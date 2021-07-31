@@ -28,12 +28,3 @@ https://ideone.com/1RadzX
 https://ideone.com/eRd5eW
 https://ideone.com/BkEDce
 
-### Link to Class 7's Work:
-https://ideone.com/b1QDnj
-
-
-### The link to check your emails:
-https://haveibeenpwned.com/
-
-### The wayback machine:
-https://web.archive.org/web/19980915000000*/google.com
