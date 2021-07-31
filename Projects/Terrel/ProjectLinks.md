@@ -19,10 +19,18 @@ https://ideone.com/91EhvX
 
 ### Link to Class 5's Work:
 https://ideone.com/nNLr8T
-
 https://ideone.com/Gy7NPb
+
+### Python Homework for Class 5:
+https://ideone.com/1RadzX
 
 ### Link to Class 6's Work:
 https://ideone.com/eRd5eW
 https://ideone.com/BkEDce
 
+
+### The link to check your emails:
+https://haveibeenpwned.com/
+
+### The wayback machine:
+https://web.archive.org/web/19980915000000*/google.com
