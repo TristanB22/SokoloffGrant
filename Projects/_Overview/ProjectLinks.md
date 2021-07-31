@@ -17,3 +17,13 @@ https://ideone.com/TmpsR9
 
 ### Game 6 Code:
 https://ideone.com/gZFCCr
+
+### Link to Class 7's Work:
+https://ideone.com/b1QDnj
+
+
+### The link to check your emails:
+https://haveibeenpwned.com/
+
+### The wayback machine:
+https://web.archive.org/web/19980915000000*/google.com
