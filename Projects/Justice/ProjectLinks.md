@@ -38,3 +38,8 @@ https://ideone.com/Eqmbdo
 
 ### Class 6's Homework:
 https://ideone.com/NtosDP
+
+### Link to Class 7's Work:
+https://ideone.com/fork/8YMX7P
+
+https://ideone.com/T1BbtB
