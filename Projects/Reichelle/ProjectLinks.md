@@ -24,6 +24,9 @@ https://ideone.com/XDROmp
 
 https://ideone.com/hrekfm
 
+### Link to Class 5's Homework:
+https://ideone.com/C7bClq
+
 ### Link to Class 6's Work:
 https://ideone.com/dAs3Je
 
