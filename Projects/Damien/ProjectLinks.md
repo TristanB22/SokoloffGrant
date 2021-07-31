@@ -11,6 +11,7 @@ https://ideone.com/3kgRz6
 
 ### Link to Class 4 Work:
 https://ideone.com/zQcvvk
+
 https://ideone.com/D9NYwS
 
 ### Link to Class 4's Python:
@@ -25,3 +26,6 @@ https://ideone.com/CapN7e
 https://ideone.com/qtnGNM
 
 https://ideone.com/VCNJw1
+
+### Class 6's Homework:
+https://ideone.com/EJkKBC
