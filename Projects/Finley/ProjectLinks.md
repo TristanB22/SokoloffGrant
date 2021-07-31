@@ -20,6 +20,9 @@ https://ideone.com/RDGayR
 ### Class 5's Work:
 https://ideone.com/SnuTKG
 
+### Link to Class 5's Homework:
+https://ideone.com/cqQaIm
+
 ### Class 6's Work:
 https://ideone.com/aT6KKA
 
