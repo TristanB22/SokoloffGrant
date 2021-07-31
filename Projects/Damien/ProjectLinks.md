@@ -26,3 +26,6 @@ https://ideone.com/CapN7e
 https://ideone.com/qtnGNM
 
 https://ideone.com/VCNJw1
+
+### Class 6's Homework:
+https://ideone.com/EJkKBC
