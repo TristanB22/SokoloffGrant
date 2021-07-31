@@ -13,3 +13,6 @@ https://ideone.com/YdZD69
 
 ### Class 6's Code:
 https://ideone.com/lQHphx
+
+### Class 7's Code:
+https://ideone.com/lzug3f
