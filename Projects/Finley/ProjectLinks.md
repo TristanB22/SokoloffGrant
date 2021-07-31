@@ -25,6 +25,10 @@ https://ideone.com/aT6KKA
 
 https://ideone.com/OndIeg
 
+### Link to Class 6's Homework:
+https://ideone.com/NJ1Ojb
+
+https://ideone.com/wpe1vi
 
 ### Link to Class 7's Work:
 https://ideone.com/hMgwCT
