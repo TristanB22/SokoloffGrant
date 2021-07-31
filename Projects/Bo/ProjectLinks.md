@@ -10,3 +10,6 @@ https://ideone.com/W5NqDm
 
 ### Link to Class 6's Python:
 https://ideone.com/woKDPe
+
+### Link to Class 7's Python:
+https://ideone.com/vMpnpO
