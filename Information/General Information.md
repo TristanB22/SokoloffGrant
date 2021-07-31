@@ -29,6 +29,4 @@ Best,
 Tristan B
 
 
-[Here](https://sps.zoom.us/j/94771799518) will always be the link to the class
-
-[Here](https://drive.google.com/drive/folders/1wQq7CkGOiiaTzg2YLlYoSP55VELQgTpK?usp=sharing) is the link to the class recordings always
+For privacy reasons, I do not have the class recordings publicly accessible. With that being said, you students all have my email so please feel free to reach out if you would like them.
