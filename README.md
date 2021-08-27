@@ -18,6 +18,6 @@ Best,
 Tristan B
 
 
-For privacy reasons, I do not have the class recordings publicly accessible. With that being said, you students all have my email so please feel free to reach out if you would like them.
+For privacy reasons, I do not have the class recordings publicly accessible. With that being said, all students have my email so please feel free to reach out if you would like them.
 
 Information about class operations can be found in /Projects/\_Overview ([link here](https://github.com/TristanB22/SokoloffGrant/tree/main/Projects/_Overview)). There, the day-by-day class descriptions can be found.
