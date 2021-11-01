@@ -10,7 +10,7 @@ This program will teach your kid important things like how to program and what t
 
 As part of the program, your child will be recieving a laptop computer which they will be allowed to keep. This is fully subsidized by the grant. The  idea behind giving the computers away is to not only provide your child with a vehicle to continue their computer escapades after this, but also to expand access to the internet. 
 
-It is no secret that the next generation is going to have access to types technology that we can barely dream of, and, I believe that it is crucial that we afford every child the opportunity to be the engineers of __their__ future. Therefore, ultimately, this project is meant to do just that. No child should be barred from entering into tech because of factors they cannot control.
+It is no secret that the next generation is going to have access to types technology that we can barely dream of, and, I believe that it is crucial that we afford every child the opportunity to be the engineers of __their__ future. Ultimately, this project is meant to do just that. No child should be barred from entering into tech because of factors they cannot control.
 
 Let's work together to create the future which ___they deserve___.
 
